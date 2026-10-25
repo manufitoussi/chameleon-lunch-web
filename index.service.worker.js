@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1792940838|4253080';
+const CACHE_VERSION = '1792941475|10456634';
 /** @type {string} */
 const CACHE_PREFIX = 'chameleon-lunch-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
